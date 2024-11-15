@@ -39,3 +39,7 @@ Real Estate: Helps real estate agents and buyers find areas with the best access
 Relocation Assistance: Provides individuals and families with personalized recommendations for where to live based on their unique preferences.
 This project offers a powerful tool for making informed decisions about location-based choices in urban environments, backed by real-time data and advanced clustering algorithms.
 
+
+
+https://github.com/user-attachments/assets/1d6c9bf0-1fb3-4819-bbca-2bf594c2138f
+
